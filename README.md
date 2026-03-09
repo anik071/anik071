@@ -2,10 +2,10 @@
 
 <h3 align="center">CSE Student | Problem Solver | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=CSE+Student;Competitive+Programmer;Future+Software+Engineer;Tech+Explorer" />
-</p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi+I'm+Abdul+Kader+Anik;CSE+Student;Tech+Enthusiast;Problem+Solver;Future+Software+Engineer"/>
+</p>
 ---
 
 ## 👨‍💻 About Me
