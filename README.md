@@ -45,16 +45,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik071&theme=github-dark"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 
 
 ## 👀 Profile Views
