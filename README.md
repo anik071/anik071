@@ -2,10 +2,10 @@
 
 <h3 align="center">CSE Student | Problem Solver | Tech Enthusiast</h3>
 
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi+I'm+Abdul+Kader+Anik;CSE+Student;Tech+Enthusiast;Problem+Solver;Future+Software+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&center=true&vCenter=true&width=800&color=1F6FEB&lines=Hi+I'm+Abdul+Kader+Anik;CSE+Student+%7C+Problem+Solver;Future+Software+Engineer;Tech+Enthusiast"/>
 </p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -31,9 +31,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anik071&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anik071&show_icons=true&theme=darkhub&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik071&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anik071&layout=compact&theme=darkhub&hide_border=true"/>
 
 </p>
 
@@ -42,7 +42,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anik071&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anik071&theme=github-dark"/>
 </p>
 
 ---
